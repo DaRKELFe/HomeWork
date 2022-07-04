@@ -1,0 +1,15 @@
+C:\Users\darke\OneDrive\Desktop\С#\Home work\obj\Debug\net6.0\Home work.csproj.AssemblyReference.cache
+C:\Users\darke\OneDrive\Desktop\С#\Home work\obj\Debug\net6.0\Home work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darke\OneDrive\Desktop\С#\Home work\obj\Debug\net6.0\Home work.AssemblyInfoInputs.cache
+C:\Users\darke\OneDrive\Desktop\С#\Home work\obj\Debug\net6.0\Home work.AssemblyInfo.cs
+C:\Users\darke\OneDrive\Desktop\С#\Home work\obj\Debug\net6.0\Home work.csproj.CoreCompileInputs.cache
+C:\Users\darke\OneDrive\Desktop\С#\Home work\bin\Debug\net6.0\Home work.exe
+C:\Users\darke\OneDrive\Desktop\С#\Home work\bin\Debug\net6.0\Home work.deps.json
+C:\Users\darke\OneDrive\Desktop\С#\Home work\bin\Debug\net6.0\Home work.runtimeconfig.json
+C:\Users\darke\OneDrive\Desktop\С#\Home work\bin\Debug\net6.0\Home work.dll
+C:\Users\darke\OneDrive\Desktop\С#\Home work\bin\Debug\net6.0\Home work.pdb
+C:\Users\darke\OneDrive\Desktop\С#\Home work\obj\Debug\net6.0\Home work.dll
+C:\Users\darke\OneDrive\Desktop\С#\Home work\obj\Debug\net6.0\refint\Home work.dll
+C:\Users\darke\OneDrive\Desktop\С#\Home work\obj\Debug\net6.0\Home work.pdb
+C:\Users\darke\OneDrive\Desktop\С#\Home work\obj\Debug\net6.0\Home work.genruntimeconfig.cache
+C:\Users\darke\OneDrive\Desktop\С#\Home work\obj\Debug\net6.0\ref\Home work.dll
